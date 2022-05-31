@@ -1,0 +1,15 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: 0;
+}
+h1, p{
+	text-align: center;
+}
+input {
+	align-items: center;
+	margin: 20px;
+}
+#form, #formm {
+	display: none;
+}
